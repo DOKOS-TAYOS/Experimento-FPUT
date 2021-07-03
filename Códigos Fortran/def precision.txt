@@ -1,0 +1,8 @@
+		module def_precision
+
+		implicit none
+
+			integer, parameter :: mi_entero=SELECTED_INT_KIND(9)
+			integer, parameter :: mi_doble=SELECTED_REAL_KIND(15,307)
+		
+		end module def_precision
