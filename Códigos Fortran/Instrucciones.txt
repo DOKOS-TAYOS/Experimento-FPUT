@@ -1,0 +1,19 @@
+Todo proyecto debe tener la parte de 'def precision' para funcionar bien.
+def precision: determina los tipos de enteros y reales para el resto de programas.
+Exp_FPUT: simula el sistema FPUT alfa con un método de Runge-Kutta de 4º orden. Guarda los datos en la ruta de name, la cual tendrá que cambiar.
+FPUT_beta: simula el sistema FPUT beta.
+Superrecurrencia: simula el sistema FPUT alfa de forma más optimizada para poder visualizar la superrecurrencia con mayor precisión.
+Solitones alfa: simula el sistema FPUT alfa especializado para la visualización de los solitones.
+Solitones beta: simula el sistema FPUT beta especializado para la visualización de los solitones.
+Espacio de fases: simula el sistema FPUT alfa para la visualización del espacio de fases.
+
+Los parámetros de entrada serán alfa (o beta), el número de pasos (ktot), cada cuantos pasos guardar (kpaso), el paso de tiempo por paso (dt), la amplitud inicial (amp), la modalidad y el modo inicial.
+La modalidad controla las condiciones iniciales:
+1: onda senoidal de amplitud amp y modo modo.
+2: suma lineal de dos ondas senoidales de amplitud amp/2 y modo modo y modo+1.
+3: kink de toda.
+4: solitón de KdV.
+
+En todos los casos, la modalidad 4 no es funcional.
+
+Los valores estimados buenos para las simulaciones aparecen en Valores, pero los mejores pueden ser otros.
