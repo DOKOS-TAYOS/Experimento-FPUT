@@ -2,7 +2,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 __author__ = "Alejandro Mata Ali (DOKOS TAYOS)"
-__copyright__ = "Public content for science use"
+__copyright__ = "CC0 1.0 Universal"
 __version__ = "1.0.0"
 __email__ = "alejandro.mata.ali@gmail.com"
 #----------------------------------

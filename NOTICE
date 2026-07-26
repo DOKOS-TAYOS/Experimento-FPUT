@@ -1,0 +1,54 @@
+NOTICE — material de terceros y exclusiones del CC0
+====================================================
+
+Este repositorio declara CC0 1.0 (archivo LICENSE) únicamente sobre el
+código y materiales propios que el autor puede dedicar al dominio público,
+según se delimita en README.md.
+
+El PDF de la memoria del TFG y cualquier contenido de terceros que contenga
+NO forman parte de esa dedicación CC0.
+
+
+1. Figura de terceros en la memoria del TFG
+------------------------------------------
+
+Archivo: El experimento de Fermi-Pasta-Ulam-Tsingou.pdf
+
+Figura 1 — «Algoritmo original de Mary Tsingou.»
+  Citada en la memoria como referencia [2]:
+
+  T. Dauxois, «Fermi, Pasta, Ulam, And a Mysterious Lady»,
+  École Normale Supérieure, Lyon; American Institute of Physics, 2008.
+
+  Esta figura (y cualesquiera derechos de reproducción asociados a la
+  publicación de AIP / del autor citado) NO está dedicada a CC0 por este
+  repositorio. Los derechos permanecen en sus titulares. Su uso o
+  redistribución requiere atender a la licencia o permisos del origen
+  (AIP / Dauxois), no al LICENSE CC0 de este repo.
+
+
+2. Memoria del TFG (PDF completo)
+---------------------------------
+
+El documento «El experimento de Fermi-Pasta-Ulam-Tsingou.pdf» es la
+memoria académica del Trabajo de Fin de Grado (USC; autor Alejandro Mata
+Ali; tutor José Manuel Sánchez de Santos).
+
+Ese PDF queda excluido de la dedicación CC0. Pueden aplicar, además,
+normas institucionales de la Universidade de Santiago de Compostela sobre
+TFG y propiedad intelectual académica.
+
+
+3. Código propio
+----------------
+
+Salvo lo excluido arriba, el código Fortran/Python de este repositorio se
+ofrece bajo CC0 1.0 según LICENSE.
+
+
+Nota
+----
+
+Si en el futuro se sustituye la Figura 1 por una recreación propia (u otra
+imagen con derechos claros), conviene actualizar este NOTICE y la
+referencia en la memoria.
