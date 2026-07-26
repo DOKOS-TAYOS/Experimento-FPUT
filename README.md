@@ -33,7 +33,7 @@ El archivo raíz [`LICENSE`](LICENSE) contiene el texto de **CC0 1.0 Universal**
 - derechos de terceros sobre obras citadas o reproducidas (por ejemplo, material publicado por AIP / autores citados);
 - condiciones institucionales o académicas de la USC aplicables al TFG.
 
-El detalle de material de terceros identificado figura en [`NOTICE`](NOTICE).
+El detalle de material de terceros (incl. Figura 1 / Tsingou vía Dauxois–AIP, con uso permitido según la fuente al incluirla) figura en [`NOTICE`](NOTICE).
 
 La presencia del PDF en el repositorio es documental (contexto académico del código). Su inclusión **no** implica que ese documento ni sus figuras de terceros se ofrezcan bajo CC0.
 

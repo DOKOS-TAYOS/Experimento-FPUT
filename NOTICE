@@ -18,13 +18,14 @@ Figura 1 — «Algoritmo original de Mary Tsingou.»
   Citada en la memoria como referencia [2]:
 
   T. Dauxois, «Fermi, Pasta, Ulam, And a Mysterious Lady»,
-  École Normale Supérieure, Lyon; American Institute of Physics, 2008.
+  École Normale Supérieure, Lyon; American Institute of Physics /
+  Physics Today, 2008; courtesy Mary Tsingou Menzel.
 
-  Esta figura (y cualesquiera derechos de reproducción asociados a la
-  publicación de AIP / del autor citado) NO está dedicada a CC0 por este
-  repositorio. Los derechos permanecen en sus titulares. Su uso o
-  redistribución requiere atender a la licencia o permisos del origen
-  (AIP / Dauxois), no al LICENSE CC0 de este repo.
+  Al incluirla en la memoria, la fuente indicaba que su uso estaba
+  permitido. Aun así, esta figura (y cualesquiera derechos asociados a
+  AIP / Dauxois / Mary Tsingou Menzel) NO está dedicada a CC0 por este
+  repositorio: los derechos permanecen en sus titulares. El LICENSE CC0
+  del repo no la cubre.
 
 
 2. Memoria del TFG (PDF completo)
@@ -49,6 +50,5 @@ ofrece bajo CC0 1.0 según LICENSE.
 Nota
 ----
 
-Si en el futuro se sustituye la Figura 1 por una recreación propia (u otra
-imagen con derechos claros), conviene actualizar este NOTICE y la
-referencia en la memoria.
+Si cambia el estatus de permiso de la Figura 1 o se sustituye por otra
+imagen, actualizar este NOTICE (y, si aplica, la memoria).
